@@ -1,0 +1,11 @@
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/exception/ReglaNegocioException.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/EstadoPregunta.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/Revisor.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/Dictamen.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/OpcionRespuesta.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/Revision.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/repository/PreguntaRepository.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/exception/DomainException.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/Enunciado.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/Justificacion.java
+/home/ctos/Documentos/SEXTO SEMESTRE/LAB. SOFTWARE II/lisw2_taller_11 (extracted)/lisw2_taller_11/saberpro-ddd-domain/src/main/java/co/edu/unicauca/saberpro/domain/model/Pregunta.java

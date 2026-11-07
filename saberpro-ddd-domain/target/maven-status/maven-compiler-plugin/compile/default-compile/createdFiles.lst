@@ -1,0 +1,11 @@
+co/edu/unicauca/saberpro/domain/model/Pregunta.class
+co/edu/unicauca/saberpro/domain/exception/ReglaNegocioException.class
+co/edu/unicauca/saberpro/domain/model/OpcionRespuesta.class
+co/edu/unicauca/saberpro/domain/model/Enunciado.class
+co/edu/unicauca/saberpro/domain/model/EstadoPregunta.class
+co/edu/unicauca/saberpro/domain/exception/DomainException.class
+co/edu/unicauca/saberpro/domain/model/Dictamen.class
+co/edu/unicauca/saberpro/domain/model/Justificacion.class
+co/edu/unicauca/saberpro/domain/repository/PreguntaRepository.class
+co/edu/unicauca/saberpro/domain/model/Revision.class
+co/edu/unicauca/saberpro/domain/model/Revisor.class
